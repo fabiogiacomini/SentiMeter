@@ -1,0 +1,5 @@
+{
+  "name": "SentiMeter AI",
+  "description": "Analizzatore di sentiment avanzato per file Excel e CSV utilizzando Google Gemini. Carica i tuoi dati, ottieni punteggi e magnitudo istantanei.",
+  "requestFramePermissions": []
+}
